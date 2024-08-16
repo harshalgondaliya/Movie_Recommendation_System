@@ -1,5 +1,5 @@
 import pickle
-import streamlit as st
+import streamlit as st # as a GUI
 import requests
 
 def fetch_poster(movie_id):
